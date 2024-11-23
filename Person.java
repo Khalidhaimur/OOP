@@ -8,7 +8,7 @@
  * @author User
  */
 //clean code
-//encapsulation: to make the variacle safe
+//encapsulation: to make the variable safe
 //constractor: same class value, function, no return value
 //more than constractor(constractor over loading)
 //default constractor
